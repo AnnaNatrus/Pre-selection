@@ -1,4 +1,4 @@
-package test;
+package CardsDeck;
 
 public class Deck {
 	String[] suits = {"spades", "clubs", "hearts", "diamonds"};
