@@ -1,4 +1,3 @@
-package test;
 
 public class Employee {
 	String name;
