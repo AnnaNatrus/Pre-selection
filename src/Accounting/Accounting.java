@@ -1,4 +1,4 @@
-package test;
+package Accounting;
 
 public class Accounting {
 	double hours;
