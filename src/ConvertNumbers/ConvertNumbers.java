@@ -1,4 +1,4 @@
-package test;
+package ConvertNumbers;
 
 
 public class ConvertNumbers {
