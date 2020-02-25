@@ -17,6 +17,6 @@
 
 [Cards and Deck (1.3)]
 
-[Accounting 2.3]
+[Accounting 2.3](/src/Accounting/)
 
 [Employee 3.3]
